@@ -6,7 +6,15 @@
     <description></description>
     <atom:link href="https://github.com" rel="self"></atom:link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Nov 2019 16:08:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 16:15:00 -0500</lastBuildDate>
+                <item>
+        <title>Test Title Three</title>
+        <link>https://www.google.com</link>
+        <guid isPermaLink="true">https://www.google.com</guid>
+        <description>Test Description Three</description>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zicarius Dev</dc:creator>
+        <pubDate>Mon, 18 Nov 2019 16:15:00 -0500</pubDate>
+      </item>   
                 <item>
         <title>Test Title Two</title>
         <link>https://www.google.com</link>
