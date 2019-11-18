@@ -6,16 +6,15 @@
     <description></description>
     <atom:link href="https://raw.githubusercontent.com/Zicarius/TestRSS/master/testrss" rel="self"></atom:link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Nov 2019 17:29:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 17:31:00 -0500</lastBuildDate>
     <item>
         <title>Test Title 13</title>
         <link>https://www.google.com</link>
         <guid isPermaLink="true">https://www.google.com</guid>
         <description>Test Description 13</description>
         <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zicarius Dev</dc:creator>
-        <pubDate>Mon, 18 Nov 2019 17:29:00 -0500</pubDate>
+        <pubDate>Mon, 18 Nov 2019 17:31:00 -0500</pubDate>
       </item>
-    <item>
     <item>
         <title>Test Title Twelve</title>
         <link>https://www.google.com</link>
