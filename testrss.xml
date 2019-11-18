@@ -6,7 +6,15 @@
     <description></description>
     <atom:link href="https://raw.githubusercontent.com/Zicarius/TestRSS/master/testrss" rel="self"></atom:link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Nov 2019 17:59:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 18:14:00 -0500</lastBuildDate>
+    <item>
+        <title>newest</title>
+        <link>www.mcr.com</link>
+        <guid isPermaLink="true">www.mcr.com</guid>
+        <description>mcr</description>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">mcr</dc:creator>
+        <pubDate>Mon, 18 Nov 2019 18:14:00 -0500</pubDate>
+      </item>
      <item>
         <title>omg new title</title>
         <link>www.google.com</link>
