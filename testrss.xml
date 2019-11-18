@@ -6,7 +6,16 @@
     <description></description>
     <atom:link href="https://raw.githubusercontent.com/Zicarius/TestRSS/master/testrss" rel="self"></atom:link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Nov 2019 17:37:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 17:40:00 -0500</lastBuildDate>
+    
+    <item>
+        <titleqwerqwerqwerqwerqwerweqrqwerqwerqwerqwerqwer</title>
+        <link>https://www.elderscrollsonline.com/en-us/news/post/57275</link>
+        <guid isPermaLink="true">https://www.elderscrollsonline.com/en-us/news/post/57275</guid>
+        <description>Thousands of Dragons have already fallen as part of the #SlayDragonsSaveCats campaign, but there’s still work to be done! Check out all the ways you can slay Dragons in ESO and support the cause.</description>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Elder Scrolls Online</dc:creator>
+        <pubDate>Mon, 18 Nov 2019 17:40:00 -0500</pubDate>
+      </item>
      <item>
         <title>Hunt These Dragons to Help #SlayDragonsSaveCats </title>
         <link>https://www.elderscrollsonline.com/en-us/news/post/57275</link>
