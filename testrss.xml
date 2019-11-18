@@ -6,109 +6,21 @@
     <description></description>
     <atom:link href="https://raw.githubusercontent.com/Zicarius/TestRSS/master/testrss" rel="self"></atom:link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Nov 2019 17:31:00 -0500</lastBuildDate>
-    <item>
-        <title>Test Title 13</title>
-        <link>https://www.google.com</link>
-        <guid isPermaLink="true">https://www.google.com</guid>
-        <description>Test Description 13</description>
-        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zicarius Dev</dc:creator>
-        <pubDate>Mon, 18 Nov 2019 17:31:00 -0500</pubDate>
-      </item>
-    <item>
-        <title>Test Title Twelve</title>
-        <link>https://www.google.com</link>
-        <guid isPermaLink="true">https://www.google.com</guid>
-        <description>Test Description Twelve</description>
-        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zicarius Dev</dc:creator>
-        <pubDate>Mon, 18 Nov 2019 17:19:00 -0500</pubDate>
-      </item>
-    <item>
-        <title>Test Title Eleven</title>
-        <link>https://www.google.com</link>
-        <guid isPermaLink="true">https://www.google.com</guid>
-        <description>Test Description Eleven</description>
-        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zicarius Dev</dc:creator>
-        <pubDate>Mon, 18 Nov 2019 17:19:00 -0500</pubDate>
-      </item>
-    <item>
-        <title>Test Title Ten</title>
-        <link>https://www.google.com</link>
-        <guid isPermaLink="true">https://www.google.com</guid>
-        <description>Test Description Ten</description>
-        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zicarius Dev</dc:creator>
-        <pubDate>Mon, 18 Nov 2019 16:47:00 -0500</pubDate>
-      </item>
-    <item>
-        <title>Test Title Nine</title>
-        <link>https://www.google.com</link>
-        <guid isPermaLink="true">https://www.google.com</guid>
-        <description>Test Description Nine</description>
-        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zicarius Dev</dc:creator>
-        <pubDate>Mon, 18 Nov 2019 16:45:00 -0500</pubDate>
-      </item>
-    <item>
-        <title>Test Title Eight</title>
-        <link>https://www.google.com</link>
-        <guid isPermaLink="true">https://www.google.com</guid>
-        <description>Test Description Eight</description>
-        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zicarius Dev</dc:creator>
-        <pubDate>Mon, 18 Nov 2019 16:40:00 -0500</pubDate>
-      </item> 
-    <item>
-        <title>Test Title Seven</title>
-        <link>https://www.google.com</link>
-        <guid isPermaLink="true">https://www.google.com</guid>
-        <description>Test Description Seven</description>
-        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zicarius Dev</dc:creator>
-        <pubDate>Mon, 18 Nov 2019 16:35:00 -0500</pubDate>
-      </item> 
+    <lastBuildDate>Mon, 18 Nov 2019 17:37:00 -0500</lastBuildDate>
      <item>
-        <title>Test Title Six</title>
-        <link>https://www.google.com</link>
-        <guid isPermaLink="true">https://www.google.com</guid>
-        <description>Test Description Six</description>
-        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zicarius Dev</dc:creator>
-        <pubDate>Mon, 18 Nov 2019 16:30:00 -0500</pubDate>
-      </item> 
-    <item>
-        <title>Test Title Five</title>
-        <link>https://www.google.com</link>
-        <guid isPermaLink="true">https://www.google.com</guid>
-        <description>Test Description Five</description>
-        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zicarius Dev</dc:creator>
-        <pubDate>Mon, 18 Nov 2019 16:24:00 -0500</pubDate>
-      </item> 
-     <item>
-        <title>Test Title Four</title>
-        <link>https://www.google.com</link>
-        <guid isPermaLink="true">https://www.google.com</guid>
-        <description>Test Description Four</description>
-        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zicarius Dev</dc:creator>
-        <pubDate>Mon, 18 Nov 2019 16:21:00 -0500</pubDate>
-      </item> 
-                <item>
-        <title>Test Title Three</title>
-        <link>https://www.google.com</link>
-        <guid isPermaLink="true">https://www.google.com</guid>
-        <description>Test Description Three</description>
-        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zicarius Dev</dc:creator>
-        <pubDate>Mon, 18 Nov 2019 16:15:00 -0500</pubDate>
-      </item>   
-                <item>
-        <title>Test Title Two</title>
-        <link>https://www.google.com</link>
-        <guid isPermaLink="true">https://www.google.com</guid>
-        <description>Test Description Two</description>
-        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zicarius Dev</dc:creator>
-        <pubDate>Mon, 18 Nov 2019 16:08:00 -0500</pubDate>
+        <title>Hunt These Dragons to Help #SlayDragonsSaveCats </title>
+        <link>https://www.elderscrollsonline.com/en-us/news/post/57275</link>
+        <guid isPermaLink="true">https://www.elderscrollsonline.com/en-us/news/post/57275</guid>
+        <description>Thousands of Dragons have already fallen as part of the #SlayDragonsSaveCats campaign, but there’s still work to be done! Check out all the ways you can slay Dragons in ESO and support the cause.</description>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Elder Scrolls Online</dc:creator>
+        <pubDate>Mon, 18 Nov 2019 17:37:00 -0500</pubDate>
       </item>
                 <item>
-        <title>Test Title One</title>
-        <link>https://www.google.com</link>
-        <guid isPermaLink="true">https://www.google.com</guid>
-        <description>Test Description One</description>
-        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zicarius Dev</dc:creator>
+        <title>Earn New Rewards &amp;amp; Glory during the Undaunted Celebration </title>
+        <link>https://www.elderscrollsonline.com/en-us/news/post/57253</link>
+        <guid isPermaLink="true">https://www.elderscrollsonline.com/en-us/news/post/57253</guid>
+        <description>Who knows no fear of beast or blade? The Undaunted Celebration event is back! Clear dungeons to earn bonus rewards and Event Tickets. We are Undaunted!</description>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Elder Scrolls Online</dc:creator>
         <pubDate>Wed, 13 Nov 2019 08:32:00 -0500</pubDate>
       </item>
       </channel>
