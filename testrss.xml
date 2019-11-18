@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[The Elder Scrolls Online]]></title>
+    <link>http://files.elderscrollsonline.com/rss/en-us/eso-rss.xml</link>
+    <description></description>
+    <atom:link href="http://elderscrollsonline.com/en-us/rss" rel="self"></atom:link>
+    <image>
+      <url>http://files.elderscrollsonline.com/img/2/logo.png</url>
+      <title>The Elder Scrolls Online</title>
+      <link>http://files.elderscrollsonline.com/rss/en-us/eso-rss.xml</link>
+    </image>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Nov 2019 10:26:19 -0500</lastBuildDate>
+                <item>
+        <title>Hunt These Dragons to Help #SlayDragonsSaveCats </title>
+        <link>https://www.elderscrollsonline.com/en-us/news/post/57275</link>
+        <guid isPermaLink="true">https://www.elderscrollsonline.com/en-us/news/post/57275</guid>
+        <description>Thousands of Dragons have already fallen as part of the #SlayDragonsSaveCats campaign, but there’s still work to be done! Check out all the ways you can slay Dragons in ESO and support the cause.</description>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Elder Scrolls Online</dc:creator>
+        <pubDate>Thu, 14 Nov 2019 08:41:00 -0500</pubDate>
+      </item>
+                <item>
+        <title>Earn New Rewards &amp;amp; Glory during the Undaunted Celebration </title>
+        <link>https://www.elderscrollsonline.com/en-us/news/post/57253</link>
+        <guid isPermaLink="true">https://www.elderscrollsonline.com/en-us/news/post/57253</guid>
+        <description>Who knows no fear of beast or blade? The Undaunted Celebration event is back! Clear dungeons to earn bonus rewards and Event Tickets. We are Undaunted!</description>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Elder Scrolls Online</dc:creator>
+        <pubDate>Wed, 13 Nov 2019 08:32:00 -0500</pubDate>
+      </item>
+                <item>
+        <title>Begin Your Adventure in Tamriel with 50% off The Elder Scrolls Online </title>
+        <link>https://www.elderscrollsonline.com/en-us/news/post/57243</link>
+        <guid isPermaLink="true">https://www.elderscrollsonline.com/en-us/news/post/57243</guid>
+        <description>Pick up The Elder Scrolls Online Standard Edition now at 50% off!</description>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Elder Scrolls Online</dc:creator>
+        <pubDate>Wed, 06 Nov 2019 07:31:00 -0500</pubDate>
+      </item>
+                <item>
+        <title>Twitch Drops Now Live for Consoles! </title>
+        <link>https://www.elderscrollsonline.com/en-us/news/post/57159</link>
+        <guid isPermaLink="true">https://www.elderscrollsonline.com/en-us/news/post/57159</guid>
+        <description>Twitch Drops are now available for Xbox One and PlayStation®4 users. Check out this article to learn about how you can set up your console ESO account and start earning rewards!</description>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Elder Scrolls Online</dc:creator>
+        <pubDate>Tue, 05 Nov 2019 08:50:00 -0500</pubDate>
+      </item>
+                <item>
+        <title>Explore Tamriel Free for a Limited Time in The Elder Scrolls Online </title>
+        <link>https://www.elderscrollsonline.com/en-us/news/post/57193</link>
+        <guid isPermaLink="true">https://www.elderscrollsonline.com/en-us/news/post/57193</guid>
+        <description>Experience The Elder Scrolls Online free during our next Free Play event!</description>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Elder Scrolls Online</dc:creator>
+        <pubDate>Mon, 04 Nov 2019 09:12:00 -0500</pubDate>
+      </item>
+                <item>
+        <title>Crown Store Showcase—November 2019 </title>
+        <link>https://www.elderscrollsonline.com/en-us/news/post/57203</link>
+        <guid isPermaLink="true">https://www.elderscrollsonline.com/en-us/news/post/57203</guid>
+        <description>Sinister New Moon pets, dashing adventure wear, and Khajiiti-themed homes and furnishings make their way to the Crown Store during the month of November. Check them all out in this latest showcase!  </description>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Elder Scrolls Online</dc:creator>
+        <pubDate>Mon, 04 Nov 2019 08:49:00 -0500</pubDate>
+      </item>
+                <item>
+        <title>Loremaster’s Archive—Dragons in the Second Era </title>
+        <link>https://www.elderscrollsonline.com/en-us/news/post/57167</link>
+        <guid isPermaLink="true">https://www.elderscrollsonline.com/en-us/news/post/57167</guid>
+        <description>The community has lore questions about Dragons during the time of The Elder Scrolls Online, and we have answers! Check out the latest Loremaster’s Archive, written by Loremaster Leamon Tuttle himself!</description>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Elder Scrolls Online</dc:creator>
+        <pubDate>Fri, 01 Nov 2019 07:51:00 -0400</pubDate>
+      </item>
+                <item>
+        <title>ESO’s Performance Improvements Plan </title>
+        <link>https://www.elderscrollsonline.com/en-us/news/post/56681</link>
+        <guid isPermaLink="true">https://www.elderscrollsonline.com/en-us/news/post/56681</guid>
+        <description>We’re working hard to make sure The Elder Scrolls Online runs as best as it possibly can. Read our plan for the game’s upcoming performance improvements from ESO’s Creative Director Rich Lambert and check back monthly for status updates.</description>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Elder Scrolls Online</dc:creator>
+        <pubDate>Thu, 31 Oct 2019 08:23:00 -0400</pubDate>
+      </item>
+                <item>
+        <title>ESO Community Guides—Dragonhold Special </title>
+        <link>https://www.elderscrollsonline.com/en-us/news/post/57157</link>
+        <guid isPermaLink="true">https://www.elderscrollsonline.com/en-us/news/post/57157</guid>
+        <description>Dragonhold and Update 24 are now live on PC/Mac, and that means we have a host of updated builds (one for every class!) and guides from the community for you to check out.</description>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Elder Scrolls Online</dc:creator>
+        <pubDate>Tue, 29 Oct 2019 08:48:00 -0400</pubDate>
+      </item>
+                <item>
+        <title> The Spooky Season Is Here with the Return of the Witches Festival! </title>
+        <link>https://www.elderscrollsonline.com/en-us/news/post/57129</link>
+        <guid isPermaLink="true">https://www.elderscrollsonline.com/en-us/news/post/57129</guid>
+        <description>Boo! Battle Tamriel’s monsters, get double XP, and earn creepy new rewards during the Witches Festival in-game event! Learn everything you need to know about the frightening fete here.</description>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Elder Scrolls Online</dc:creator>
+        <pubDate>Tue, 22 Oct 2019 08:51:00 -0400</pubDate>
+      </item>
+      </channel>
+</rss>
