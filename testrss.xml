@@ -11,7 +11,15 @@
       <link>http://files.elderscrollsonline.com/rss/en-us/eso-rss.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Nov 2019 10:26:19 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 03:47:00 -0500</lastBuildDate>
+    <item>
+        <title>Is this working?</title>
+        <link>https://www.mychemicalromance.com/</link>
+        <guid isPermaLink="true">https://www.mychemicalromance.com/</guid>
+        <description>Please tell me this is working.</description>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy</dc:creator>
+        <pubDate>Mon, 18 Nov 2019 03:47:00 -0500</pubDate>
+      </item>
                 <item>
         <title>Hunt These Dragons to Help #SlayDragonsSaveCats </title>
         <link>https://www.elderscrollsonline.com/en-us/news/post/57275</link>
